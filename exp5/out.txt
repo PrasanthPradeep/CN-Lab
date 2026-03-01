@@ -1,0 +1,7 @@
+server.c
+Server is listening on port 8080...
+result calculated
+
+client.c
+Enter a number: 17
+Sum of digits: 8

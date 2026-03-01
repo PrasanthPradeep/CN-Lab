@@ -1,0 +1,7 @@
+server.c
+Server listening on port 9000...
+Received from client: Malayalam
+
+client.c
+Enter string: Malayalam
+Reversed string from server: malayalaM

@@ -1,0 +1,11 @@
+Enter number of nodes: 2
+Enter cost matrix (9999 for no direct link):
+2
+3
+5
+0
+Enter source node: 2
+
+Shortest paths from node 2:
+To node 0 -> Cost = 0
+To node 1 -> Cost = 0

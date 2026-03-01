@@ -1,0 +1,51 @@
+Sender: Sending frame 0
+Receiver: ACK received for frame 0
+-----------------------------------
+Sender: Sending frame 1
+Receiver: ACK lost for frame 1
+Sender: Timeout! Resending frame 1
+-----------------------------------
+Sender: Sending frame 1
+Receiver: ACK received for frame 1
+-----------------------------------
+Sender: Sending frame 2
+Receiver: ACK received for frame 2
+-----------------------------------
+Sender: Sending frame 3
+Receiver: ACK received for frame 3
+-----------------------------------
+Sender: Sending frame 4
+Receiver: ACK received for frame 4
+-----------------------------------
+Sender: Sending frame 5
+Receiver: ACK lost for frame 5
+Sender: Timeout! Resending frame 5
+-----------------------------------
+Sender: Sending frame 5
+Receiver: ACK lost for frame 5
+Sender: Timeout! Resending frame 5
+-----------------------------------
+Sender: Sending frame 5
+Receiver: ACK received for frame 5
+-----------------------------------
+Sender: Sending frame 6
+Receiver: ACK received for frame 6
+-----------------------------------
+Sender: Sending frame 7
+Receiver: ACK lost for frame 7
+Sender: Timeout! Resending frame 7
+-----------------------------------
+Sender: Sending frame 7
+Receiver: ACK received for frame 7
+-----------------------------------
+Sender: Sending frame 8
+Receiver: ACK lost for frame 8
+Sender: Timeout! Resending frame 8
+-----------------------------------
+Sender: Sending frame 8
+Receiver: ACK received for frame 8
+-----------------------------------
+Sender: Sending frame 9
+Receiver: ACK received for frame 9
+-----------------------------------
+All frames transmitted successfully.

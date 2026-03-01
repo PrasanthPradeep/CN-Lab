@@ -1,0 +1,36 @@
+Go-Back-N ARQ Simulation
+Total frames: 10, Window size: 4
+
+Frame 0 sent successfully.
+Frame 1 sent successfully.
+Frame 2 sent successfully.
+Frame 3 sent successfully.
+ACK received for Frame 0
+ACK received for Frame 1
+ACK received for Frame 2
+ACK received for Frame 3
+
+Frame 4 sent successfully.
+Frame 5 sent successfully.
+Frame 6 sent successfully.
+Frame 7 sent successfully.
+ACK for Frame 4 lost! Retransmitting from Frame 4
+
+Frame 4 sent successfully.
+Frame 5 sent successfully.
+Frame 6 sent successfully.
+Frame 7 sent successfully.
+ACK received for Frame 4
+ACK received for Frame 5
+ACK for Frame 6 lost! Retransmitting from Frame 6
+
+Frame 6 sent successfully.
+Frame 7 sent successfully.
+Frame 8 sent successfully.
+Frame 9 sent successfully.
+ACK received for Frame 6
+ACK received for Frame 7
+ACK received for Frame 8
+ACK received for Frame 9
+
+All frames transmitted successfully!

@@ -1,0 +1,13 @@
+server.c
+Server is listening on port 8080...
+result calculated
+
+client.c
+Enter the number of elements: 5
+Enter the elements: 1
+2
+3
+4
+5
+Enter the key to search: 2
+Element found at position: 1

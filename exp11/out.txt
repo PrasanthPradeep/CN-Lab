@@ -1,0 +1,19 @@
+Enter number of frames: 5
+Enter window size: 3
+
+--- Selective Repeat ARQ Simulation ---
+Frame 0 sent
+Frame 1 sent
+Frame 2 sent
+Did receiver get frame 0 correctly? (1=Yes, 0=No): 1
+Did receiver get frame 1 correctly? (1=Yes, 0=No): 0
+Frame 1 lost! Retransmitting frame 1
+Frame 1 resent successfully
+Did receiver get frame 2 correctly? (1=Yes, 0=No): 1
+
+Frame 3 sent
+Frame 4 sent
+Did receiver get frame 3 correctly? (1=Yes, 0=No): 1
+Did receiver get frame 4 correctly? (1=Yes, 0=No): 1
+
+All frames received successfully!

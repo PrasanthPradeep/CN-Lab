@@ -1,0 +1,10 @@
+server.c
+Chat server started on port 8080...
+New client connected: 4
+Client 4: Hello world!
+Client 4: welcome
+
+client.c
+Connected to chat server...
+Hello world!
+welcome
